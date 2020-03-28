@@ -47,3 +47,6 @@ pip install mcipc
 
 Убедитесь, что включили RCon!
 
+запускаем:
+
+python rcnonbotc.py
