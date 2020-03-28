@@ -7,9 +7,9 @@ RCon-minecraft bot VK
 Он отлично подойдёт для приватных серверов.
 
 
-#Видео-обзор №1 - youtube.com/watch?v=ZcsNEYVrbRY
+Видео-обзор №1 - youtube.com/watch?v=ZcsNEYVrbRY
 
-#Видео-обзор №2 - скоро....
+Видео-обзор №2 - скоро....
 
 Как установить ?
 
