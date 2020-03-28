@@ -1,7 +1,5 @@
-# rcon 
-# minecraft 
-# vk
-# bot
+# rcon  minecraft  vk  bot
+ 
 RCon-minecraft bot VK
 
 Вы можете удалённо управлять своим сервером даже с телефона.
