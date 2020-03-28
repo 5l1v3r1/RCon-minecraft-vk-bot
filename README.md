@@ -17,7 +17,9 @@ RCon-minecraft bot VK
 
 
 Установите из requirements.txt библиотеки.
+
 pip install vk_api
+
 pip install mcipc
 
 
